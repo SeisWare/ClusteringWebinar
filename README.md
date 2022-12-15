@@ -2,8 +2,7 @@
 
 Short tutorial on running clustering algorithms using data from an LAS file or from a SeisWare project.
 
-
-Use the Binder link below to open an interactive online notebook. The SeisWare import won't work, but you can test it out with the LAS data.
+Use the Binder link below to open an interactive online notebook. The SeisWare import won't work, but you can test it out with the LAS data provided.
 
 The example LAS file is courtesy of RMOTC and the U.S. Department of Energy.
 
